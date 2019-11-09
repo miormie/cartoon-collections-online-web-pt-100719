@@ -28,7 +28,6 @@ def long_planeteer_calls(calls)     # code an argument here
  end 
   
 end
-
 #accept an array "calls", should tell if the calls longer than 4 charac. 
 
 
@@ -40,9 +39,6 @@ def find_the_cheese(array)    # array of strings
     cheese_types.include?(cheese)
 end 
 end 
-
-
-
 #method should accept array of strings
 #Should look through each index and see if any of them has a string 
 #return the first string that is a type of cheese 
